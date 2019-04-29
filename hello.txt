@@ -12,4 +12,4 @@ add new line on dev
 
 add lin on master
 
-add lin on master
+add lin on dev
